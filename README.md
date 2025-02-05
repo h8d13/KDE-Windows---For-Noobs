@@ -18,7 +18,7 @@ Also make sure to use motherboard ports directly as it's more likely to actually
 
 ![load-34_128](https://github.com/user-attachments/assets/a5d39ff6-4dd3-4dca-b1c4-c2322579d2a5)
  
-This can take up to 30mins to an hour. you don' thave to worry as it's installing a lot of necessary libraries and preparing it for the next steps.
+This can take up to 30mins to an hour. You don' thave to worry as it's installing a lot of necessary libraries and preparing it for the next steps.
 Hence, why once you're in, the rest will be quick. This is a "live image" meaning you actually already have a lot of utilities included.   
 
 Let the installer do it's thing. It might reset your screen a couple of times (or change resolutions). 
@@ -27,7 +27,9 @@ It might also stop spinning totally at the very end, again just be patient.
 Once you're in the desktop, in the launch menu: Click Install System
 Let it load. 
 
-Make sure to install on the right target drive. (I like to keep a windows install on a seperate disk) 
+**Make sure to install on the right target drive.**
+
+(I like to keep a windows install on a seperate disk) 
 If you're not sure: `lsblk`
 If it's not in the list the drive is not formatted in the right format. 
 
