@@ -94,9 +94,11 @@ Now you're all good to go for dev, gaming, whatever it is.
 For FireFox I recommend getting AdGuard and Plasma Integration so that it works perfectly with media. This also means most systems will work out of the box with keyboard keys to play/pause, volume, etc
 
 
+---
 
+![Untitled](https://github.com/user-attachments/assets/c79aa5f3-61c2-4aae-afaf-5ef1932e6507)
 
-
+Now you can use both systems freely whenever you start the machine. 
 
 
 
