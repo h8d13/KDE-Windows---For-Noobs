@@ -5,7 +5,8 @@ Used KDE Neon, means we get a modern DE with a Ubuntu base (Debian) and also way
 
 All you need is 2 drives, 1 usb and any kind of hardware really. 
 Make sure you have the windows install already done on one drive. You can also use this to format the other drive easily. 
-Go to search menu > Create and format disk partitions or type in console: 'diskmgmt.msc' 
+Go to search menu > Create and format disk partitions or type in console: `diskmgmt.msc`
+
 For the drives you have to make sure they are formated in a linux compatible format (ext4, XFS, and Btrfs). 
 
 ### Start
