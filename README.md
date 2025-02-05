@@ -66,7 +66,7 @@ Reboot again.
 Now depending on your hardware you might need to jump some hoops. For me it's a Nvidia card so I will install their drivers. 
 
 ---
-### NVIDIA 
+### NVIDIA GPUS
 In the log-out screen you can find a small switch to x11.
 
 Then since this is based on Ubuntu it will make our lives easier: `ubuntu-drivers devices`
