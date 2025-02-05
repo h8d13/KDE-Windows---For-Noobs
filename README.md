@@ -13,6 +13,7 @@ Flash the USB with Etcher, Rufus or Similar tool
 Open boot options (f12, del, etc) > Boot from USB
 
 If you're using old hardware and have early USB prot, this will take a while (basically copying/prep the whole ISO).
+Also make sure to use motherboard ports directly as it's more likely to actually detect the media. 
 
 ![load-34_128](https://github.com/user-attachments/assets/a5d39ff6-4dd3-4dca-b1c4-c2322579d2a5)
  
