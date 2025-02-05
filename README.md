@@ -9,6 +9,7 @@ Go to search menu > Create and format disk partitions or type in console: `diskm
 
 For the drives you have to make sure they are formated in a linux compatible format (ext4, XFS, and Btrfs). 
 
+---
 ### Start
 Flash the USB with Etcher, Rufus or Similar tool
 Open boot options (f12, del, etc) > Boot from USB
