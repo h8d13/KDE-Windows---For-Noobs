@@ -99,6 +99,3 @@ For FireFox I recommend getting AdGuard and Plasma Integration so that it works 
 
 
 
-
-
-
