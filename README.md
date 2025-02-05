@@ -67,6 +67,7 @@ Now depending on your hardware you might need to jump some hoops. For me it's a 
 ---
 ### NVIDIA 
 In the log-out screen you can find a small switch to x11.
+
 Then since this is based on Ubuntu it will make our lives easier: `ubuntu-drivers devices`
 This will give you a recommended version for your hardware.  
 
