@@ -108,7 +108,8 @@ For FireFox I recommend getting AdGuard and Plasma Integration so that it works 
 ### Results 
 ![Untitled](https://github.com/user-attachments/assets/c79aa5f3-61c2-4aae-afaf-5ef1932e6507)
 
-Now you can use both systems freely whenever you start the machine. 
+Now you can use both systems freely whenever you start the machine. Simple up and down pick. 
+
 The grub command line tool let's you add more if you ever decided to hop. 
 
 
