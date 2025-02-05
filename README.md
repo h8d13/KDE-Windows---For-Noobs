@@ -11,7 +11,7 @@ If you're using old hardware and have early USB prot, this will take a while (ba
 ![load-34_128](https://github.com/user-attachments/assets/a5d39ff6-4dd3-4dca-b1c4-c2322579d2a5)
  
 This can take up to 30mins to an hour. you don' thave to worry as it's installing a lot of necessary libraries and preparing it for the next steps.
-Hence, why once you're in the rest will be quick.   
+Hence, why once you're in, the rest will be quick. This is a "live image" meaning you actually already have a lot of utilities included.   
 
 Let the installer do it's thing. 
 Once you're in the desktop, Click install KDE
