@@ -97,6 +97,8 @@ The only thing you might need `sudo apt install mesa-utils` to get full compatib
 Now you're all good to go for dev, gaming, whatever it is. 
 
 For FireFox I recommend getting AdGuard and Plasma Integration so that it works perfectly with media. This also means most systems will work out of the box with keyboard keys to play/pause, volume, etc
+
+
 ---
 
 ### Results 
