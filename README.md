@@ -84,7 +84,7 @@ You can check it works with the Nvidia settings pannel which should show your GP
 
 We can also check using `nvidia-smi`.
 
-But the process would just be easier with AMD and functional almost instantly. 
+But the process would just be easier with AMD and functional almost instantly as it's integrated by defualt into kde. 
 
 ---
 
