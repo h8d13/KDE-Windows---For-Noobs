@@ -3,6 +3,8 @@
 ### Why? 
 Used KDE Neon, means we get a modern DE with a Ubuntu base (Debian) and also wayland & x11 enabled. 
 
+
+### Start
 Flash the USB with Etcher, Rufus or Similar tool
 Open boot options (f12, del, etc) > Boot from USB
 
