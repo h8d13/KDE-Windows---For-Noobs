@@ -3,6 +3,7 @@
 ### Why? 
 Used KDE Neon, means we get a modern DE with a Ubuntu base (Debian) and also wayland & x11 enabled. 
 
+All you need is 2 drives, 1 usb and any kind of hardware really. 
 
 ### Start
 Flash the USB with Etcher, Rufus or Similar tool
@@ -36,7 +37,7 @@ For the drives you have to make sure they are formated in a linux compatible for
 
 ---
 
-When the installer is done. 
+### When the installer is done. 
 
 It has created your file system, password, etc
 This means you can reboot and remove the USB.
@@ -46,15 +47,15 @@ Remove it, if your enter key doesn't work you can hard shutdown.
 
 Now go back to BIOS settings: 
 Change to boot from the KDE Neon drive. 
+
 What is also cool is that KDE includes a friendly boot manager that can preserve the Windows 10 install and show it to us whenever we start the machine. 
 
 ---
 
 Now we can start making the system our own. 
-
 First we need to connect to update. So we if you're using a cable and it's old hardware again you might have to check it's properly plugged in and click bottom right network > Configure network Connections
 
-Then add, generate a random mac adress and toggle automatic connection. 
+Then add, generate a random mac adress and toggle automatic connection. If it doesnt work try deleting the device and creating it again.  
 Now there should be a little update icon in the bottom right. Click it and click update all. 
 
 Reboot again.
@@ -98,6 +99,7 @@ For FireFox I recommend getting AdGuard and Plasma Integration so that it works 
 
 ---
 
+### Results 
 ![Untitled](https://github.com/user-attachments/assets/c79aa5f3-61c2-4aae-afaf-5ef1932e6507)
 
 Now you can use both systems freely whenever you start the machine. 
