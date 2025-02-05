@@ -62,7 +62,8 @@ Reboot again.
 Now depending on your hardware you might need to jump some hoops. For me it's a Nvidia card so I will install their drivers. 
 
 ---
-NVIDIA 
+### NVIDIA 
+[nvidia](#nvidia)
 In the log-out screen you can find a small switch to x11.
 Then since this is based on Ubuntu it will make our lives easier: `ubuntu-drivers devices`
 This will give you a recommended version for your hardware.  
@@ -85,7 +86,8 @@ You can check it works with the Nvidia settings pannel which should show your GP
 
 We can also check using `nvidia-smi`.
 
-AMD GPUS
+### AMD GPUS
+[amd](#amd)
 But the process would just be easier with AMD and functional almost instantly as it's integrated by default into kde with AMDGPU. 
 The only thing you might need `sudo apt install mesa-utils` to get full compatibility. 
 
