@@ -93,6 +93,7 @@ You can check it works with the Nvidia settings pannel which should show your GP
 
 We can also check using `nvidia-smi`.
 
+---
 ### AMD GPUS
 But the process would just be easier with AMD and functional almost instantly as it's integrated by default into kde with AMDGPU. 
 The only thing you might need `sudo apt install mesa-utils` to get full compatibility. 
@@ -100,7 +101,6 @@ The only thing you might need `sudo apt install mesa-utils` to get full compatib
 ---
 
 Now you're all good to go for dev, gaming, whatever it is. 
-
 For FireFox I recommend getting AdGuard and Plasma Integration so that it works perfectly with media. This also means most systems will work out of the box with keyboard keys to play/pause, volume, etc
 
 
