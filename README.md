@@ -1,9 +1,12 @@
-# KDE---For-Noobs
+# KDE/Windows---For-Noobs
 
 ### Why? 
 Used KDE Neon, means we get a modern DE with a Ubuntu base (Debian) and also wayland & x11 enabled. 
 
 All you need is 2 drives, 1 usb and any kind of hardware really. 
+Make sure you have the windows install already done on one drive. You can also use this to format the other drive easily. 
+Go to search menu > Create and format disk partitions or type in console: 'diskmgmt.msc' 
+For the drives you have to make sure they are formated in a linux compatible format (ext4, XFS, and Btrfs). 
 
 ### Start
 Flash the USB with Etcher, Rufus or Similar tool
@@ -32,8 +35,6 @@ Note:
 On even older hardware you might have to set the Sata to AHCI instead of RST. Issue is that if you cmos battery is dead every power-out this setting will be default... 
 It will also most likely break everything. 
 So make sure to change this before installing any OS if available. 
-
-For the drives you have to make sure they are formated in a linux compatible format (ext4, XFS, and Btrfs). 
 
 ---
 
@@ -95,8 +96,6 @@ The only thing you might need `sudo apt install mesa-utils` to get full compatib
 Now you're all good to go for dev, gaming, whatever it is. 
 
 For FireFox I recommend getting AdGuard and Plasma Integration so that it works perfectly with media. This also means most systems will work out of the box with keyboard keys to play/pause, volume, etc
-
-
 ---
 
 ### Results 
