@@ -114,3 +114,13 @@ Now you can use both systems freely whenever you start the machine. Simple up an
 The grub command line tool let's you add more if you ever decided to hop. 
 
 
+---
+
+### Updates
+
+KDE has a neat manager that can do most of the work for you. 
+What I recommend doing is install all then select action > Restart
+
+This will make sure get you to get to a applying updates screen. I don't know why not enabled by default. 
+
+
