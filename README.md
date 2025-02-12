@@ -54,7 +54,7 @@ Remove it, if your enter key doesn't work you can hard shutdown.
 Now go back to BIOS settings: 
 Change to boot from the KDE Neon drive. 
 
-What is cool is that KDE includes a friendly boot manager that can preserve the Windows 10 install and show it to us whenever we start the machine. 
+What is cool is that KDE includes a friendly boot manager that can preserve the W11/W10 install and show it to us whenever we start the machine. 
 
 ---
 
