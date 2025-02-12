@@ -34,7 +34,7 @@ Let it load.
 If you're not sure: `lsblk`
 If it's not in the list the drive is not formatted in the right format. 
 
-Reboot but make sure to remove the USB and boot from the drive we just installed on. 
+**Reboot but make sure to remove the USB and boot from the drive we just installed on.** 
 
 Note:
 On even older hardware you might have to set the Sata to AHCI instead of RST. Issue is that if you cmos battery is dead every power-out this setting will be default... 
