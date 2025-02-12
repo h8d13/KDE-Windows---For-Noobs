@@ -123,4 +123,4 @@ What I recommend doing is install all then select action > Restart
 
 This will make sure get you to get to a applying updates screen. I don't know why not enabled by default. 
 
-
+See full guide here: [Full Guide](https://github.com/h8d13/LSK---Linux-Starter-Kit)
